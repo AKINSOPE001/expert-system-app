@@ -1,0 +1,13 @@
+@font-face{
+	font-family: "sint-bold";
+	src: url("fonts/Sintony-Bold.ttf") format("opentype");
+}
+
+@font-face{
+	font-family: "sint-reg";
+	src: url("fonts/Sintony-Regular.ttf") format("opentype");
+}
+@font-face{
+	font-family: "acme";
+	src: url("fonts/Acme-Regular.ttf") format("opentype");
+}

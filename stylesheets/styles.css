@@ -1,0 +1,85 @@
+@font-face{
+	font-family: "fedra_book";
+	src: url("fonts/fedra_a_book.ttf") format("opentype");
+}
+
+*{
+	margin: 0;
+	padding: 0;
+}
+.background{
+	background-color: #BBC900;
+}
+.wrapper{
+	border: 1px solid #E48300;
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+	height: 600px;
+}
+.logo{
+	
+	width: 960px;
+	height: 168px; 
+	background-color: #fff;
+
+}
+.content{
+	
+	width: 960px;
+	height: 345px;
+	color: #fff;
+	font-size: 1rem;
+	font-family: "fedra_book";
+
+
+	
+}
+.content img{
+	width: 960px;
+	margin: -1;
+	padding: 0;
+
+}
+.content ul{
+	list-style-type: none;
+}
+.footer{
+	
+	height: 85px;
+	width: 960px;
+	background-color: #fff;
+}
+.footer p{
+	padding-top: 30px;
+	color: #E48300;
+	
+
+}
+.image{
+	
+	
+}
+.test{
+	position: relative;
+	top: -16rem;
+	left: 8rem;
+
+}
+.test input{
+	padding: 5px;
+	margin: 7px;
+	
+	font-family: "fedra_book";
+
+}
+.checkboxes{
+	color: #fff;
+	position: relative;
+	top:-22rem;
+	left: 1rem;
+	padding: 1rem;
+	font-size: 16px;
+	font-family: "fedra_book";
+
+}
